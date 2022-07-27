@@ -3,7 +3,7 @@ kind: Route
 metadata:
   name: reverse-words
 spec:
-  host: reversewords.apps.aws-waytech.rh8c21.sandbox1224.opentlc.com
+  host: reversewords-prod.apps.aws-waytech.rh8c21.sandbox1224.opentlc.com
   port:
     targetPort: 8080
   tls:
